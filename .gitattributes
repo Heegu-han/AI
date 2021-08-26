@@ -1,1 +1,2 @@
 cats_and_dogs_vgg.npz filter=lfs diff=lfs merge=lfs -text
+glove.6B.100d.txt filter=lfs diff=lfs merge=lfs -text
